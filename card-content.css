@@ -1,0 +1,40 @@
+body {
+    background-color: #ffc5d3;
+    color: #ec9daf;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 98vh;
+}
+
+.birthday-card {
+    background-color: #f6e8e8;
+    border: 5px solid #fe8fa9;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 80px;
+}
+
+h1 {
+    font-family: garamond;
+    font-size: 50px;
+}
+
+h2 {
+    font-family: Times, serif;
+    font-size: 30px;
+}
+
+#text-container {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+#image-click {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
